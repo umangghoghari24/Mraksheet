@@ -1,14 +1,3 @@
-// gujarati,math,comp,eng,phy;       int , ,'
-                                               
-//gujarati=90                             printf("Gujarati=%d\n",gujarati);
-//math=60 
-//comp=80
-//eng=75
-//phy=60
-//total=??             1+2+34+4;
-//per=??           per=total*100/500.
-
-
 #include<stdio.h>
 int main()
 {
